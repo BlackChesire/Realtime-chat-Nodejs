@@ -1,6 +1,6 @@
 #  ChatApp
-Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
-just for practice !
+Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS as frontend.
+just for practice and learning.
 ## How to run
 ```
 npm install
