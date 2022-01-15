@@ -1,1 +1,11 @@
-realtime chat app using nodejs just for practice socket.io
+#  ChatApp
+Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
+just for practice !
+## How to run
+```
+npm install
+npm run dev
+
+Go to localhost:3000
+```
+
